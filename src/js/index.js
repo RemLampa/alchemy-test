@@ -1,3 +1,2 @@
-const test = 'test';
+import 'bootstrap/dist/css/bootstrap-grid.min.css';
 
-console.log(`Testing ${test}`);
